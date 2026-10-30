@@ -1,0 +1,551 @@
+{
+  "site": {
+    "title": "Krishna Gopal Tailor | Sr. Backend AI Engineer",
+    "description": "Backend engineer with 15 years of production experience building agentic-AI systems with LangChain, LangGraph and RAG, MCP tool servers, FinTech payment platforms and AWS microservices with Python, Django, Flask and GraphQL.",
+    "url": "https://krishnagopal.vercel.app",
+    "keywords": [
+      "Krishna Gopal Tailor",
+      "Backend Engineer",
+      "Agentic AI",
+      "MCP Servers",
+      "Python",
+      "Django",
+      "Flask",
+      "GraphQL",
+      "AWS",
+      "FinTech",
+      "LangChain",
+      "LangGraph",
+      "RAG"
+    ]
+  },
+  "profile": {
+    "name": "Krishna Gopal Tailor",
+    "shortName": "Krishna",
+    "initials": "KT",
+    "title": "Sr. Delivery Backend AI Engineer",
+    "headline": "I build the backends that AI agents learn from and run on.",
+    "tagline": "15 years of shipping production Python: from high-scale FinTech payment platforms and AWS microservices to MCP tool servers that train agents to use real-world APIs reliably.",
+    "location": "Udaipur, India",
+    "availability": "Open to senior backend and agentic-AI roles",
+    "workMode": "Remote friendly",
+    "email": "banti.kaneria@gmail.com",
+    "phone": "+91 8764213959",
+    "resumeUrl": "/resume.pdf",
+    "photo": "/profile.jpg",
+    "socials": {
+      "github": "https://github.com/KrishnaGopal",
+      "linkedin": "https://www.linkedin.com/in/krishna-tailor-3b26207a/"
+    },
+    "rotatingRoles": [
+      "MCP tool servers",
+      "LangChain and LangGraph agents",
+      "RAG pipelines",
+      "FinTech payment APIs",
+      "AWS serverless microservices",
+      "GraphQL and REST APIs",
+      "Python SDKs"
+    ]
+  },
+  "stats": [
+    {
+      "value": "15+",
+      "label": "Years in production engineering"
+    },
+    {
+      "value": "350+",
+      "label": "Services simulated as MCP tool servers"
+    },
+    {
+      "value": "9",
+      "label": "Years of Python experience"
+    },
+    {
+      "value": "18",
+      "label": "Projects shipped"
+    }
+  ],
+  "about": {
+    "intro": "I am a backend engineer who has spent 15 years turning complex business problems into reliable, well-tested services. Today I focus on agentic AI: building the tool servers, API contracts and evaluations that help AI agents act correctly in the real world.",
+    "highlights": [
+      {
+        "icon": "bot",
+        "title": "Agentic AI",
+        "text": "LangChain and LangGraph agents, RAG pipelines, MCP tool servers and multi-turn agent evaluation."
+      },
+      {
+        "icon": "server",
+        "title": "Backend platforms",
+        "text": "Python, Django, DRF, Flask, GraphQL, PostgreSQL and MySQL at production scale."
+      },
+      {
+        "icon": "cloud",
+        "title": "AWS serverless",
+        "text": "Lambda, SQS, SNS, S3, EventBridge, AppSync, Secrets Manager and CDK pipelines."
+      },
+      {
+        "icon": "layers",
+        "title": "Architecture",
+        "text": "RESTful and GraphQL API design, microservices, Docker, CI/CD and modular OOP design."
+      },
+      {
+        "icon": "database",
+        "title": "Data performance",
+        "text": "PostgreSQL and MySQL tuning with stored procedures, triggers, indexes and Redis caching."
+      },
+      {
+        "icon": "shield",
+        "title": "Quality first",
+        "text": "Test-driven development with pytest, careful code review, Git and Jira workflows."
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Turing",
+      "role": "Sr. Delivery Backend AI Engineer",
+      "start": "Oct 2025",
+      "end": "Present",
+      "location": "Remote",
+      "summary": "Building MCP tool-server simulations of 350+ third-party services for agent tool-use training, on a shared Pydantic validation and auto-populate framework with pytest scenario coverage.",
+      "tech": [
+        "Python",
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "MCP",
+        "Pydantic",
+        "pytest"
+      ]
+    },
+    {
+      "company": "Infosys",
+      "role": "Lead Consultant",
+      "start": "Nov 2024",
+      "end": "Oct 2025",
+      "location": "Remote",
+      "summary": "Backend owner for an energy-sector operations platform: Python microservices on AWS Lambda, AppSync GraphQL, SQLAlchemy and PostgreSQL, with CI/CD on AWS CDK.",
+      "tech": [
+        "Python",
+        "AWS Lambda",
+        "AppSync",
+        "GraphQL",
+        "PostgreSQL",
+        "CDK"
+      ]
+    },
+    {
+      "company": "ZiniosEdge Pvt Ltd",
+      "role": "Senior Technical Lead",
+      "start": "Feb 2024",
+      "end": "Nov 2024",
+      "location": "Remote",
+      "summary": "Led backend delivery for the same energy platform (with Infosys as client) before joining Infosys directly: Python, GraphQL, PostgreSQL, AWS Lambda and CDK.",
+      "tech": [
+        "Python",
+        "GraphQL",
+        "PostgreSQL",
+        "AWS Lambda",
+        "CDK"
+      ]
+    },
+    {
+      "company": "Arcgate",
+      "role": "Sr. Software Engineer",
+      "start": "Feb 2015",
+      "end": "Feb 2024",
+      "location": "Udaipur, India",
+      "summary": "Nine years building FinTech banking and payments APIs, a Python SDK, and productivity tools for activity analytics and task management.",
+      "tech": [
+        "Python",
+        "Django",
+        "DRF",
+        "Flask",
+        "PostgreSQL",
+        "Redis",
+        "AWS"
+      ]
+    },
+    {
+      "company": "Gempulse Infotech Pvt Ltd",
+      "role": "Software Developer",
+      "start": "Oct 2011",
+      "end": "Feb 2015",
+      "location": "Jaipur, India",
+      "summary": "Built PHP web applications with the CakePHP and CodeIgniter frameworks and WordPress CMS.",
+      "tech": [
+        "PHP",
+        "CakePHP",
+        "CodeIgniter",
+        "WordPress",
+        "MySQL"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "MCP Service Simulation Suite",
+      "company": "Turing",
+      "period": "Oct 2025 - Present",
+      "category": "Agentic AI",
+      "stack": [
+        "Python",
+        "LangChain",
+        "LangGraph",
+        "RAG",
+        "MCP servers",
+        "Pydantic",
+        "pytest"
+      ],
+      "summary": "Near-exact simulations of 350+ third-party services delivered as MCP tool servers, so AI agents learn to call real APIs reliably.",
+      "description": "Each simulation replicates a real service's auth flows, endpoints and edge cases. A shared Pydantic validation and auto-populate framework keeps derived fields, referential integrity and tool schemas consistent across every simulated service. Agent workflows are orchestrated with LangChain and LangGraph, with RAG pipelines grounding agents in service documentation.",
+      "features": [
+        "Stateful service simulations exposed as MCP tool servers",
+        "LangChain and LangGraph agent workflows",
+        "RAG retrieval over service docs and API specs",
+        "Realistic auth flows, endpoints and edge cases",
+        "Shared Pydantic validation and auto-populate framework",
+        "Referential integrity and consistent tool schemas",
+        "pytest scenario and regression coverage"
+      ],
+      "responsibilities": [
+        "Build and harden simulations for email, design, messaging and terminal services",
+        "Own the shared validation framework",
+        "Author multi-turn coding tasks with regression tests",
+        "Review side-by-side agent trajectories"
+      ],
+      "featured": true
+    },
+    {
+      "title": "Energy Operations Dashboard",
+      "company": "Infosys / ZiniosEdge",
+      "period": "Feb 2024 - Oct 2025",
+      "category": "Cloud platform",
+      "stack": [
+        "Python",
+        "AWS Lambda",
+        "AppSync",
+        "GraphQL",
+        "PostgreSQL",
+        "SQLAlchemy",
+        "CDK"
+      ],
+      "summary": "A central platform for biofuels documents, actualization, mass balance and cost calculation across divisions and countries.",
+      "description": "Microservice backend built with Python on AWS Lambda, SNS, SQS, EventBridge, Secrets Manager and AppSync GraphQL, using PostgreSQL with the SQLAlchemy ORM and CI/CD pipelines on AWS CDK. The frontend is built in React.",
+      "features": [
+        "Biofuels document management",
+        "Actualization and mass balance",
+        "Cost calculation across divisions and countries",
+        "Event-driven microservices on AWS",
+        "Automated CI/CD with AWS CDK"
+      ],
+      "responsibilities": [
+        "Own the backend: requirements, implementation plans and APIs",
+        "Develop APIs with Python, AWS services, GraphQL and PostgreSQL",
+        "Write unit tests with pytest and review code",
+        "Prepare API documentation and support frontend integration"
+      ],
+      "featured": true
+    },
+    {
+      "title": "FinTech Banking & Payments Platform",
+      "company": "Arcgate",
+      "period": "2015 - 2024",
+      "category": "FinTech",
+      "stack": [
+        "Python",
+        "Django",
+        "DRF",
+        "PostgreSQL",
+        "AWS SQS",
+        "AWS SNS",
+        "AWS Lambda",
+        "S3"
+      ],
+      "summary": "A banking and payments platform for software teams building the next generation of financial products in regulated and unregulated industries.",
+      "description": "End-to-end platform covering customer onboarding for individuals and businesses, bank-account linking, KYC and KYB verification, digital wallets, payment processing and money transfer.",
+      "features": [
+        "Individual and business customer registration",
+        "Bank-account linking",
+        "KYC and KYB identity verification",
+        "Digital wallets",
+        "Payment processing and ACH-style transfers"
+      ],
+      "responsibilities": [
+        "Designed product architecture and database structure",
+        "Built RESTful APIs with Django REST framework",
+        "Wrote implementation plans and unit tests",
+        "Integrated AWS SQS, SNS, Lambda and S3"
+      ],
+      "featured": true
+    },
+    {
+      "title": "FinTech Python SDK",
+      "company": "Arcgate",
+      "period": "2015 - 2024",
+      "category": "Developer tools",
+      "stack": [
+        "Python",
+        "SDK design",
+        "pytest"
+      ],
+      "summary": "An SDK that lets product teams use every feature of the payments platform without calling HTTP endpoints directly.",
+      "description": "A clean, typed Python interface over the platform's APIs, so integrating teams work with functions and objects instead of raw requests.",
+      "features": [
+        "Full coverage of the payments platform APIs",
+        "Developer-friendly functions instead of raw HTTP calls",
+        "Unit-tested client methods"
+      ],
+      "responsibilities": [
+        "Designed the SDK architecture",
+        "Implemented SDK functions for each API",
+        "Wrote the implementation plan and unit tests"
+      ],
+      "featured": false
+    },
+    {
+      "title": "User Activity Analytics",
+      "company": "Arcgate",
+      "period": "2015 - 2024",
+      "category": "Analytics",
+      "stack": [
+        "Python",
+        "Flask",
+        "SQLAlchemy",
+        "PostgreSQL",
+        "Redis"
+      ],
+      "summary": "Full-funnel insight into users' computer activity to maximize productivity and enable on-screen monitoring.",
+      "description": "A monitoring tool that captures screen activity and browsing history and turns it into productivity insights, reports and invoices.",
+      "features": [
+        "Screen monitoring",
+        "Video recording and playback",
+        "Browsing-history tracking",
+        "Productivity and non-productivity insights",
+        "Reporting and invoicing"
+      ],
+      "responsibilities": [
+        "Designed product architecture and database structure",
+        "Built RESTful APIs with Flask",
+        "Wrote automation and scheduled scripts"
+      ],
+      "featured": false
+    },
+    {
+      "title": "Task Management Tool",
+      "company": "Arcgate",
+      "period": "2015 - 2024",
+      "category": "Internal platform",
+      "stack": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Jira API"
+      ],
+      "summary": "A central place to allocate and track work across the organisation, with two-way Jira integration and analytics.",
+      "description": "Brings every Jira ticket in and converts it into a task, then auto-assigns, reminds and reports so managers can analyse work efficiency and utilisation.",
+      "features": [
+        "Custom task creation and auto-assignment",
+        "Jira integration",
+        "Activity logs and notification centre",
+        "Advanced search, reminders and task frequency",
+        "Reporting and analytics"
+      ],
+      "responsibilities": [
+        "Built RESTful APIs with Django",
+        "Designed the database structure",
+        "Wrote automation and scheduled scripts"
+      ],
+      "featured": false
+    }
+  ],
+  "skills": [
+    {
+      "group": "Languages & Backend",
+      "icon": "code",
+      "items": [
+        {
+          "name": "Python",
+          "years": "9 yrs"
+        },
+        {
+          "name": "Django",
+          "years": "6+ yrs"
+        },
+        {
+          "name": "Django REST Framework",
+          "years": "5 yrs"
+        },
+        {
+          "name": "Flask",
+          "years": "2 yrs"
+        },
+        {
+          "name": "REST APIs",
+          "years": "6 yrs"
+        },
+        {
+          "name": "GraphQL",
+          "years": "2 yrs"
+        },
+        {
+          "name": "PHP"
+        }
+      ]
+    },
+    {
+      "group": "Agentic AI",
+      "icon": "bot",
+      "items": [
+        {
+          "name": "LangChain"
+        },
+        {
+          "name": "LangGraph"
+        },
+        {
+          "name": "RAG pipelines"
+        },
+        {
+          "name": "MCP servers",
+          "years": "1+ yr"
+        },
+        {
+          "name": "LLMs"
+        },
+        {
+          "name": "Tool-use training"
+        },
+        {
+          "name": "Agent evaluation"
+        },
+        {
+          "name": "Pydantic"
+        }
+      ]
+    },
+    {
+      "group": "Cloud & DevOps",
+      "icon": "cloud",
+      "items": [
+        {
+          "name": "AWS",
+          "years": "4 yrs"
+        },
+        {
+          "name": "Lambda"
+        },
+        {
+          "name": "SQS / SNS"
+        },
+        {
+          "name": "EventBridge"
+        },
+        {
+          "name": "AppSync"
+        },
+        {
+          "name": "AWS CDK"
+        },
+        {
+          "name": "Docker"
+        },
+        {
+          "name": "CI/CD"
+        }
+      ]
+    },
+    {
+      "group": "Data",
+      "icon": "database",
+      "items": [
+        {
+          "name": "PostgreSQL"
+        },
+        {
+          "name": "MySQL"
+        },
+        {
+          "name": "SQLAlchemy"
+        },
+        {
+          "name": "Redis"
+        },
+        {
+          "name": "Query tuning"
+        }
+      ]
+    },
+    {
+      "group": "Architecture",
+      "icon": "layers",
+      "items": [
+        {
+          "name": "Microservices",
+          "years": "3 yrs"
+        },
+        {
+          "name": "Python SDK design",
+          "years": "1 yr"
+        },
+        {
+          "name": "API design"
+        },
+        {
+          "name": "Event-driven systems"
+        },
+        {
+          "name": "OOP & modular design"
+        }
+      ]
+    },
+    {
+      "group": "Practices & Tools",
+      "icon": "wrench",
+      "items": [
+        {
+          "name": "pytest / TDD"
+        },
+        {
+          "name": "Code review"
+        },
+        {
+          "name": "Git"
+        },
+        {
+          "name": "Jira"
+        },
+        {
+          "name": "Technical documentation"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Information Technology",
+      "institution": "Rajasthan Technical University, Kota",
+      "period": "2007 - 2011",
+      "score": "70%"
+    },
+    {
+      "degree": "Senior Secondary (Science - Maths)",
+      "institution": "Govt. Sen. Sec. School, RBSE",
+      "period": "2006 - 2007",
+      "score": "69%"
+    },
+    {
+      "degree": "Secondary (10th)",
+      "institution": "Govt. Sen. Sec. School, RBSE",
+      "period": "2004 - 2005",
+      "score": "64%"
+    }
+  ],
+  "contact": {
+    "heading": "Let's build something reliable together.",
+    "text": "Hiring for a senior backend or agentic-AI role, or need help with a Python, AWS or FinTech platform? I usually reply within a day."
+  },
+  "footer": {
+    "note": "Built with Next.js and Tailwind CSS. Content is driven by a single JSON file."
+  }
+}
